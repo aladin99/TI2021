@@ -1,2 +1,2 @@
 # TI2021
-Projekat iz softverskog inšinjerstva
+Projekat iz softverskog inzinjerstva
