@@ -1,2 +1,2 @@
-# TI2021
+# RT2021
 Projekat iz softverskog inzinjerstva
